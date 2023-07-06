@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Input output",
+      "setup": "",
+      "run": "python test",
+      "input": "Danish\r\nPython",
+      "output": "Hello Danish\r\nwelcome to python class",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
